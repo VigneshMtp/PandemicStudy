@@ -1,0 +1,11 @@
+70		#No of Indiviuals
+60		#Time Horizon
+3		#tw
+3		#ta
+3		#td
+0 0.5 0.98	#beta Coeffecient
+0.02		#MaxSelection
+0.02		#MaxDeath Percentage of Total Population
+0.04		#Initial Infected Percentage of Total Population
+0		#Enhancement Variable
+0.75		#alpha Selection
